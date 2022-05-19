@@ -665,6 +665,11 @@ display: block;
     color: var(--first-color);
 }
 
+.portfolio-details a{
+    text-decoration: none;
+    color: var(--first-color);
+}
+
 .service-card{
     margin: 1rem auto;
     padding: 1rem;
